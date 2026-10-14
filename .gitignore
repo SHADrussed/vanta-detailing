@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+.browsers/
+.env
+.env.*
+!.env.example
+.vercel/
+playwright-report/
+test-results/
+portfolio/qa/
+portfolio/CASE_STUDY.md
